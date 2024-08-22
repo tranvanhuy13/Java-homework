@@ -11,9 +11,9 @@ public class Main {
         y = scanner.nextInt();
         System.out.println("x + y = "+ (x+y));
         System.out.println("x - y = "+ (x-y));
-        System.out.println("x * y = "+(x*y));
-        System.out.println("x / y = "+(x/y));
-        System.out.println("x % y = "+(x%y));
+        System.out.println("x * y = "+ (x*y));
+        System.out.println("x / y = "+ (x/y));
+        System.out.println("x % y = "+ (x%y));
 
 
     }
