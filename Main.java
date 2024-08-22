@@ -9,11 +9,11 @@ public class Main {
         x = scanner.nextInt();
         System.out.print("Enter y: ");
         y = scanner.nextInt();
-        System.out.println("x + y = "+ (x+y));
-        System.out.println("x - y = "+ (x-y));
-        System.out.println("x * y = "+ (x*y));
-        System.out.println("x / y = "+ (x/y));
-        System.out.println("x % y = "+ (x%y));
+        System.out.println("x + y = " + (x + y));
+        System.out.println("x - y = " + (x - y));
+        System.out.println("x * y = " + (x * y));
+        System.out.println("x / y = " + (x / y));
+        System.out.println("x % y = " + (x % y));
 
 
     }
